@@ -1,2 +1,2 @@
-# inheritance
-we used a parent class and created extensions for easier and better programming
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
